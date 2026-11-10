@@ -70,17 +70,31 @@ My personal corner of the internet.
 
 ## `04 / toolkit`
 
-<div align="center">
+**Languages & scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/x86_Assembly-525252?style=flat-square)
 
-</div>
+**Web security & testing**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-005A9C?style=flat-square)
+![BurpBounty](https://img.shields.io/badge/BurpBounty-8B0000?style=flat-square)
+![HTTPX](https://img.shields.io/badge/HTTPX-3776AB?style=flat-square)
+
+**Recon & discovery**
+
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![Nuclei](https://img.shields.io/badge/Nuclei-4B32C3?style=flat-square)
+![Subfinder](https://img.shields.io/badge/Subfinder-222222?style=flat-square)
+![RustScan](https://img.shields.io/badge/RustScan-B7410E?style=flat-square)
+
+**Network analysis & environment**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Parrot_Linux-15AABF?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
