@@ -1,16 +1,76 @@
-# mazouz.py
+# `mazouz.py`
 
 <div align="center">
 
-**security research · web exploitation · offensive tooling**
+### security research / web exploitation / offensive tooling
+
+**Breaking things to understand how they work.**
 
 `curious by nature, stubborn when debugging :)`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF4444&center=true&vCenter=true&width=520&lines=Web+Security+%26+Exploitation;Python+Offensive+Tooling;PortSwigger+%E2%86%92+Custom+Scripts;Learning+by+Breaking+Things" alt="Typing SVG" />
+[![GitHub](https://img.shields.io/badge/GitHub-mazouzpy-181717?style=flat-square&logo=github)](https://github.com/mazouzpy)
+[![Website](https://img.shields.io/badge/Website-mazouzpy.github.io-FF4444?style=flat-square&logo=firefox&logoColor=white)](https://mazouzpy.github.io)
 
 </div>
 
 ---
+
+## `01 / about`
+
+I'm a self-taught security enthusiast interested in understanding how software works beneath the surface — and what happens when things don't work as expected.
+
+My main focus is **web application security**. I spend my time studying vulnerabilities, investigating application behavior, solving practical labs, and turning what I learn into Python scripts.
+
+I prefer hands-on experimentation over blindly running tools.
+
+```text
+learn → investigate → reproduce → understand → build
+```
+
+---
+
+## `02 / what I'm working on`
+
+| Area | Focus |
+|:--|:--|
+| Web Security | SQLi, XSS, access control, authentication |
+| Python | Custom scripts, HTTP automation, exploit development |
+| Networking | Protocols, traffic analysis, reconnaissance |
+| Linux | System internals and privilege escalation |
+| Low-level | C, x86 Assembly, reverse engineering |
+
+---
+
+## `03 / projects`
+
+### [portswigger-exploits](https://github.com/mazouzpy/portswigger-exploits)
+
+`Python` `HTTPX` `Web Security`
+
+A collection of custom Python scripts developed while solving PortSwigger Web Security Academy labs.
+
+Current topics include:
+
+- SQL Injection
+- NoSQL Injection
+- Cross-Site Scripting
+- JWT vulnerabilities
+- File Upload vulnerabilities
+- Path Traversal
+- OS Command Injection
+- Access Control
+
+The idea is simple: understand the vulnerability, solve the lab, then build a script around what I learned.
+
+### [mazouzpy.github.io](https://github.com/mazouzpy/mazouzpy.github.io)
+
+`HTML` `CSS`
+
+My personal corner of the internet.
+
+---
+
+## `04 / toolkit`
 
 <div align="center">
 
@@ -18,67 +78,41 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-525252?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Assembly](https://img.shields.io/badge/x86_Assembly-525252?style=flat-square)
 
 </div>
 
 ---
 
-## `whoami`
-
-Self-taught security enthusiast exploring how applications work, break, and can be tested.
-
-Currently focused on web security, hands-on research, and building Python tools around what I learn.
-
-I prefer understanding what's happening under the hood over blindly running tools.
-
-`learn → investigate → experiment → repeat ^‿^`
-
----
-
-## `~/projects`
-
-| Repository | Stack | Description |
-|---|---|---|
-| [portswigger-exploits](https://github.com/mazouzpy/portswigger-exploits) | `Python` | Custom scripts for PortSwigger Web Security Academy labs |
-| [mazouzpy.github.io](https://github.com/mazouzpy/mazouzpy.github.io) | `HTML` | Personal website, security notes, and writeups |
-
----
-
-## `~/interests`
-
-- Web application security
-- HTTP, authentication, and access control
-- Python scripting and offensive tooling
-- Network protocols and traffic analysis
-- Linux internals
-- C and x86 Assembly
-- Reverse engineering
-
----
-
-## `~/currently`
+## `05 / currently`
 
 ```python
-focus = {
-    "main": "web security",
-    "practice": "PortSwigger labs",
-    "building": "Python exploit scripts",
-    "studying": ["networking", "Linux", "assembly"],
-}
+class CurrentFocus:
+    main = "Web Application Security"
+    practice = "PortSwigger Web Security Academy"
+    building = "Python exploit scripts"
 
-mood = "one more request before sleep :)"
+    exploring = [
+        "Network protocols",
+        "Linux internals",
+        "x86 Assembly",
+        "Reverse Engineering",
+    ]
+
+    motto = "Understand it. Then automate it."
 ```
 
 ---
 
-## `~/stats`
+## `06 / github stats`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mazouzpy&show_icons=true&theme=transparent&hide_border=true&title_color=FF4444&icon_color=FF4444&text_color=AAAAAA" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=mazouzpy&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF4444&icon_color=FF4444&text_color=C9D1D9" alt="GitHub Stats" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazouzpy&layout=compact&theme=transparent&hide_border=true&title_color=FF4444&text_color=AAAAAA" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mazouzpy&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=FF4444&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
@@ -86,6 +120,8 @@ mood = "one more request before sleep :)"
 
 <div align="center">
 
-`thanks for stopping by! ^‿^`
+**Still learning. Still breaking things.**
+
+`thanks for stopping by ^‿^`
 
 </div>
