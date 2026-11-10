@@ -19,6 +19,8 @@ I'm a self-taught security enthusiast interested in understanding how software w
 
 My main focus is **web application security**. I spend my time studying vulnerabilities, investigating application behavior, solving practical labs, and turning what I learn into Python scripts.
 
+I also explore network security, Windows internals, reverse engineering, and low-level programming.
+
 I prefer hands-on experimentation over blindly running tools.
 
 ```text
@@ -31,9 +33,11 @@ learn → investigate → reproduce → understand → build
 
 | Area | Focus |
 |:--|:--|
-| Web Security | SQLi, XSS, access control, authentication |
+| Web Security | SQLi, XSS, NoSQLi, access control, authentication |
 | Python | Custom scripts, HTTP automation, exploit development |
-| Networking | Protocols, traffic analysis, reconnaissance |
+| Reconnaissance | Enumeration, attack surface discovery, vulnerability scanning |
+| Networking | Protocols, traffic analysis, network reconnaissance |
+| Windows & AD | Enumeration, lateral movement, remote execution |
 | Linux | System internals and privilege escalation |
 | Low-level | C, x86 Assembly, reverse engineering |
 
@@ -75,26 +79,62 @@ My personal corner of the internet.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86_Assembly-525252?style=flat-square)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-525252?style=flat-square)
 
-**Web security & testing**
+**Python & web automation**
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Acunetix](https://img.shields.io/badge/Acunetix-005A9C?style=flat-square)
-![BurpBounty](https://img.shields.io/badge/BurpBounty-8B0000?style=flat-square)
 ![HTTPX](https://img.shields.io/badge/HTTPX-3776AB?style=flat-square)
+![Requests](https://img.shields.io/badge/Requests-222222?style=flat-square)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-222222?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-**Recon & discovery**
+**Web security & discovery**
 
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-222222?style=flat-square)
+![Katana](https://img.shields.io/badge/Katana-222222?style=flat-square)
+![WPScan](https://img.shields.io/badge/WPScan-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/Nuclei-4B32C3?style=flat-square)
 ![Subfinder](https://img.shields.io/badge/Subfinder-222222?style=flat-square)
+![Amass](https://img.shields.io/badge/Amass-222222?style=flat-square)
+
+**Network reconnaissance & analysis**
+
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![Masscan](https://img.shields.io/badge/Masscan-222222?style=flat-square)
 ![RustScan](https://img.shields.io/badge/RustScan-B7410E?style=flat-square)
-
-**Network analysis & environment**
-
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Parrot_Linux-15AABF?style=flat-square&logo=linux&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-222222?style=flat-square)
+
+**Red Team, Windows & Active Directory**
+
+![AdaptixC2](https://img.shields.io/badge/AdaptixC2-8B0000?style=flat-square)
+![Chisel](https://img.shields.io/badge/Chisel-222222?style=flat-square)
+![BloodHound](https://img.shields.io/badge/BloodHound-EB1B2D?style=flat-square)
+![Impacket](https://img.shields.io/badge/Impacket-222222?style=flat-square)
+![NetExec](https://img.shields.io/badge/NetExec-222222?style=flat-square)
+![enum4linux](https://img.shields.io/badge/enum4linux-222222?style=flat-square)
+![Evil-WinRM](https://img.shields.io/badge/Evil--WinRM-222222?style=flat-square)
+
+**Privilege escalation**
+
+![PEASS](https://img.shields.io/badge/PEASS-FF4444?style=flat-square)
+![GTFOBins](https://img.shields.io/badge/GTFOBins-222222?style=flat-square)
+
+**Reverse engineering & exploit development**
+
+![IDA](https://img.shields.io/badge/IDA-222222?style=flat-square)
+![BNinja](https://img.shields.io/badge/BNinja-222222?style=flat-square)
+![Detect It Easy](https://img.shields.io/badge/Detect_It_Easy-222222?style=flat-square)
+![PE-bear](https://img.shields.io/badge/PE--bear-222222?style=flat-square)
+![x64dbg](https://img.shields.io/badge/x64dbg-222222?style=flat-square)
+![Pwndbg](https://img.shields.io/badge/Pwndbg-222222?style=flat-square)
+![pwntools](https://img.shields.io/badge/pwntools-222222?style=flat-square)
+
+**OSINT**
+
+![Sherlock](https://img.shields.io/badge/Sherlock-222222?style=flat-square)
+![Blackbird](https://img.shields.io/badge/Blackbird-222222?style=flat-square)
 
 ---
 
@@ -108,6 +148,7 @@ class CurrentFocus:
 
     exploring = [
         "Network protocols",
+        "Windows internals",
         "Linux internals",
         "x86 Assembly",
         "Reverse Engineering",
