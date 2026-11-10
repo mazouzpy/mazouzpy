@@ -1,16 +1,24 @@
-## Hi there 👋
+# mazouzpy
 
-<!--
-**mazouzpy/mazouzpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Red team / web exploitation. Python-first.
 
-Here are some ideas to get you started:
+Working through offensive security on my own time — not a course, just curiosity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Active
+
+- **[portswigger-exploits](https://github.com/mazouzpy/portswigger-exploits)** — Python scripts automating PortSwigger Web Security Academy labs. SQLi, auth bypass, more in progress.
+- **[mazouzpy.github.io](https://mazouzpy.github.io)** — notes and writeups as I go.
+
+---
+
+## Stack
+
+`Python` · `C` · `x86 asm (read)` · `Burp Suite` · `Linux`
+
+---
+
+## Currently
+
+Grinding web exploitation. Building tooling as I learn.
