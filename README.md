@@ -2,9 +2,7 @@
 
 <div align="center">
 
-### security research / web exploitation / offensive tooling
-
-**Breaking things to understand how they work.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=FF4444&center=true&vCenter=true&width=550&lines=Web+Security+%26+Exploitation;Python+Offensive+Tooling;PortSwigger+%E2%86%92+Custom+Scripts;Learning+by+Breaking+Things;Curious+by+Nature+%3A)" alt="Typing SVG" />
 
 `curious by nature, stubborn when debugging :)`
 
