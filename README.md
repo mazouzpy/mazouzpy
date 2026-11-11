@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=FF4444&center=true&vCenter=true&width=550&lines=Web+Security+%26+Exploitation;Python+Offensive+Tooling;PortSwigger+%E2%86%92+Custom+Scripts;Learning+by+Breaking+Things;Curious+by+Nature+%3A)" alt="Typing SVG" />
 
-`curious by nature, stubborn when debugging :)`
+`curious by nature, stubborn when debugging ^‿^`
 
 [![GitHub](https://img.shields.io/badge/GitHub-mazouzpy-181717?style=flat-square&logo=github)](https://github.com/mazouzpy)
 [![Website](https://img.shields.io/badge/Website-mazouzpy.github.io-FF4444?style=flat-square&logo=firefox&logoColor=white)](https://mazouzpy.github.io)
@@ -175,6 +175,8 @@ class CurrentFocus:
 
 **Still learning. Still breaking things.**
 
-`thanks for stopping by ^‿^`
+`Moka coffee, no sugar. ^‿^`
+
+`thanks for stopping by ♡`
 
 </div>
