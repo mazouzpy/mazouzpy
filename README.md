@@ -175,7 +175,7 @@ class CurrentFocus:
 
 **Still learning. Still breaking things.**
 
-`Moka coffee, no sugar. :)`
+`Moka coffee, no sugar :)`
 
 `thanks for stopping by ♡`
 
